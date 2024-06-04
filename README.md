@@ -1,16 +1,27 @@
-# myapp
+# Tic Tac Toe
 
-A new Flutter project.
+The classic game of Tic Tac Toe. Know with AI competitor.
 
-## Getting Started
+## Inspiration
 
-This project is a starting point for a Flutter application.
+This project was inspired by a dribble tic tac toe app design by [wojciechmarek](https://dribbble.com/wojciechmarek).
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text for the image](assets/design.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Get gemini API key [here](https://ai.google.dev/gemini-api/docs/api-key).
+
+Install from the release [v1.0.0]().
+
+Build from source code.
+- Clone the repo
+
+```sh
+git clone https://github.com/DagmawiIsaiah/tic-tac-toe.git
+```
+- And then you can use the normal build & run procedure 
+```sh
+flutter pub get
+flutter run
+```
