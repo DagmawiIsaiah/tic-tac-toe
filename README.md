@@ -14,7 +14,7 @@ App icon by <a href="https://www.flaticon.com/free-icons/tic-tac-toe" title="tic
 
 Get gemini API key [here](https://ai.google.dev/gemini-api/docs/api-key).
 
-Install from the release [v1.0.0]().
+Install from the release [v1.0.0]()
 
 Build from source code.
 - Clone the repo
@@ -27,3 +27,4 @@ git clone https://github.com/DagmawiIsaiah/tic-tac-toe.git
 flutter pub get
 flutter run
 ```
+> App under development
