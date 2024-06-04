@@ -6,6 +6,8 @@ The classic game of Tic Tac Toe. Know with AI competitor.
 
 This project was inspired by a dribble tic tac toe app design by [wojciechmarek](https://dribbble.com/wojciechmarek).
 
+App icon by <a href="https://www.flaticon.com/free-icons/tic-tac-toe" title="tic tac toe icons">Freepik - Flaticon</a>
+
 ![Alt text for the image](assets/design.jpg)
 
 ## Installation

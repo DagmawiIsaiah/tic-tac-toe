@@ -26,7 +26,7 @@ class GameLogic with ChangeNotifier {
 
   void resetGame() {
     cells = List.generate(9, (_) => ''); // Reset all cells to empty
-    currentPlayer = selectedSide; // Start with player X again
+    currentPlayer = selectedSide;
     notifyListeners();
   }
 
